@@ -1,0 +1,11 @@
+project2/angular-frontend/.editorconfig
+project2/angular-frontend/node_modules/
+project2/angular-frontend/.vscode/settings.json
+project1/android-app/.gradle/
+project1/android-app/.idea/
+project1/android-app/.settings/
+project1/android-app/app/build/
+project2/javaee-backend/.classpath
+project2/javaee-backend/.project
+project2/javaee-backend/.settings
+project2/javaee-backend/target
